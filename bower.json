@@ -1,0 +1,16 @@
+{
+  "name": "tinder-js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ohmmho/tinder-javascript",
+  "authors": [
+    "Helena V. Icart <helenav.icart@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
